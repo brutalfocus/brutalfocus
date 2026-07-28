@@ -1,0 +1,59 @@
+{
+  "navPortfolio": "Portfolio",
+  "navAbout": "Über mich",
+  "navContact": "Kontakt",
+
+  "quote": "Ich mache Fotos, um zu beweisen, dass ich zwischen zwei Moshpits existiere.",
+  "intro": "Zwischen blendenden Lichtern, Verstärkern und Chaos im Pit fange ich die rohe Energie der Metal-Szene ein.",
+  "discover": "Meine Welt entdecken",
+
+  "portfolio": "Portfolio",
+  "all": "Alle",
+  "concerts": "Konzerte",
+  "festivals": "Festivals",
+  "backstage": "Backstage",
+  "portraits": "Porträts",
+
+  "about": "Über mich",
+  "aboutText": "Ich bin Sarah, eine belgische Fotografin mit Leidenschaft für Metal, Hardcore und Punk. Mit Brutal Focus möchte ich die rohe Energie von Konzerten festhalten: Bewegung, Emotionen, Licht und einzigartige Momente, die in wenigen Sekunden verschwinden. Mein Ziel ist es, die Atmosphäre eines Konzerts durch meine Bilder wieder lebendig zu machen.",
+
+  "experiences": "Erfahrungen",
+
+  "exp1Title": "Konzerte & Festivals",
+  "exp1Text": "Live-Fotografie von Metal-, Hardcore- und Punkbands. Die Energie der Bühne und des Publikums einfangen.",
+
+  "exp2Title": "Lokale Szene",
+  "exp2Text": "Unterstützung von aufstrebenden Bands und lokalen Veranstaltungen durch Fotografie.",
+
+  "exp3Title": "Brutal Focus",
+  "exp3Text": "Ein Projekt, das auf Leidenschaft für extreme Musik und einzigartige Momente basiert.",
+
+  "services": "Dienstleistungen",
+
+  "service1Title": "📸 Live-Konzerte",
+  "service1Text": "Die Energie der Bühne, die Emotionen der Künstler und die Atmosphäre des Publikums festhalten.",
+
+  "service2Title": "🎸 Festivals",
+  "service2Text": "Fotoreportagen von Metal-, Hardcore- und Punk-Veranstaltungen.",
+
+  "service3Title": "🖤 Bands",
+  "service3Text": "Promotionsfotos, Bilder für soziale Medien und Erinnerungen an Tourneen.",
+
+  "references": "Referenzen",
+  "refFestivals": "Festivals",
+  "refBands": "Bands",
+  "refAvailable": "Verfügbar für",
+
+  "contact": "Kontakt",
+  "contactText": "Möchtest du Fotos von deinem Konzert, Festival oder deiner Band? Kontaktiere mich gerne, um dein Projekt zu besprechen.",
+
+  "name": "Name",
+  "email": "E-Mail-Adresse",
+  "band": "Band / Festival",
+  "date": "Veranstaltungsdatum",
+  "message": "Deine Nachricht",
+
+  "send": "Senden" ,
+  "search": "Band oder Festival suchen...",
+"recent": "Neueste"
+}

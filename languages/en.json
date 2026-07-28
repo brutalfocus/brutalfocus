@@ -1,0 +1,60 @@
+{
+  "navPortfolio": "Portfolio",
+  "navAbout": "About",
+  "navContact": "Contact",
+
+  "quote": "I take photos to prove I exist between two mosh pits.",
+  "intro": "Between blinding lights, walls of amplifiers and pit chaos, I capture the raw energy of the metal scene.",
+  "discover": "Discover my world",
+
+  "portfolio": "Portfolio",
+  "all": "All",
+  "concerts": "Concerts",
+  "festivals": "Festivals",
+  "backstage": "Backstage",
+  "portraits": "Portraits",
+
+  "about": "About",
+  "aboutText": "I am Sarah, a Belgian photographer passionate about metal, hardcore and punk scenes. Through Brutal Focus, I capture the raw energy of concerts: movement, emotions, lights and unique moments that disappear in seconds. My goal is to bring the atmosphere of a concert back to life through my images.",
+
+  "experiences": "Experience",
+
+  "exp1Title": "Concerts & Festivals",
+  "exp1Text": "Live photography of metal, hardcore and punk bands. Capturing the energy of the stage and the crowd.",
+
+  "exp2Title": "Local Scene",
+  "exp2Text": "Supporting emerging bands and local events through photography.",
+
+  "exp3Title": "Brutal Focus",
+  "exp3Text": "A project based on passion for extreme music and unique moments.",
+
+  "services": "Services",
+
+  "service1Title": "📸 Live Concerts",
+  "service1Text": "Capturing the energy of the stage, artists' emotions and crowd atmosphere.",
+
+  "service2Title": "🎸 Festivals",
+  "service2Text": "Photo coverage of metal, hardcore and punk events.",
+
+  "service3Title": "🖤 Bands",
+  "service3Text": "Promotional photos, social media visuals and tour memories.",
+
+  "references": "References",
+  "refFestivals": "Festivals",
+  "refBands": "Bands",
+  "refAvailable": "Available for",
+
+  "contact": "Contact",
+  "contactText": "Would you like photos of your concert, festival or band? Feel free to contact me to discuss your project.",
+
+  "name": "Name",
+  "email": "Email address",
+  "band": "Band / Festival",
+  "date": "Event date",
+  "message": "Your message",
+
+  "send": "Send" ,
+
+  "search": "Search a band, festival...",
+"recent": "Most recent"
+}

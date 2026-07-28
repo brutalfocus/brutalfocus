@@ -1,0 +1,59 @@
+{
+  "navPortfolio": "Portfolio",
+  "navAbout": "Over mij",
+  "navContact": "Contact",
+
+  "quote": "Ik maak foto's om te bewijzen dat ik besta tussen twee moshpits.",
+  "intro": "Tussen verblindende lichten, versterkers en chaos in de pit leg ik de pure energie van de metalscene vast.",
+  "discover": "Ontdek mijn wereld",
+
+  "portfolio": "Portfolio",
+  "all": "Alles",
+  "concerts": "Concerten",
+  "festivals": "Festivals",
+  "backstage": "Backstage",
+  "portraits": "Portretten",
+
+  "about": "Over mij",
+  "aboutText": "Ik ben Sarah, een Belgische fotograaf met een passie voor metal, hardcore en punk. Met Brutal Focus wil ik de rauwe energie van concerten vastleggen: beweging, emoties, licht en unieke momenten die binnen enkele seconden verdwijnen. Mijn doel is om de sfeer van een concert opnieuw tot leven te brengen door mijn beelden.",
+
+  "experiences": "Ervaringen",
+
+  "exp1Title": "Concerten & Festivals",
+  "exp1Text": "Livefotografie van metal-, hardcore- en punkbands. De energie van het podium en het publiek vastleggen.",
+
+  "exp2Title": "Lokale scène",
+  "exp2Text": "Ondersteuning van opkomende bands en lokale evenementen door middel van fotografie.",
+
+  "exp3Title": "Brutal Focus",
+  "exp3Text": "Een project gebaseerd op passie voor extreme muziek en unieke momenten.",
+
+  "services": "Diensten",
+
+  "service1Title": "📸 Live Concerten",
+  "service1Text": "De energie van het podium, de emoties van artiesten en de sfeer van het publiek vastleggen.",
+
+  "service2Title": "🎸 Festivals",
+  "service2Text": "Fotoreportages van metal-, hardcore- en punkevenementen.",
+
+  "service3Title": "🖤 Bands",
+  "service3Text": "Promotiefoto's, beelden voor sociale media en herinneringen aan tournees.",
+
+  "references": "Referenties",
+  "refFestivals": "Festivals",
+  "refBands": "Bands",
+  "refAvailable": "Beschikbaar voor",
+
+  "contact": "Contact",
+  "contactText": "Wil je foto's van je concert, festival of band? Neem gerust contact met mij op om je project te bespreken.",
+
+  "name": "Naam",
+  "email": "E-mailadres",
+  "band": "Band / Festival",
+  "date": "Datum van het evenement",
+  "message": "Je bericht",
+
+  "send": "Versturen" ,
+  "search": "Zoek een band, festival...",
+"recent": "Meest recent"
+}
