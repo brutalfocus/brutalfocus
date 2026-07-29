@@ -674,20 +674,7 @@ transparent 40%
 
 
 
-.languages{
-    position:fixed;
-    top:20px;
-    right:30px;
-    z-index:999;
-    display:flex;
-    gap:20px;
-}
 
-.languages span{
-    font-size:45px;
-    cursor:pointer;
-    transition:0.3s;
-}
 
 .languages span:hover{
     transform:scale(1.2);
