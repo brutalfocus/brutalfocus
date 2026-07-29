@@ -805,47 +805,293 @@ ALBUMS PORTFOLIO
 
 
 
+/* ===============================
+   MOBILE VERSION
+================================ */
+
 @media(max-width:700px){
 
-    nav{
-        position:absolute;
-        top:0;
-        left:0;
-        width:100%;
-        padding:20px;
-        flex-direction:column;
-        align-items:center;
-    }
+
+/* ===== NAVIGATION ===== */
 
 
-    .logo{
-        font-size:20px;
-        text-align:center;
-        margin-bottom:60px;
-    }
+nav{
+
+    position:relative;
+    height:260px;
+    width:100%;
+    padding:20px;
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:flex-start;
+
+}
 
 
-    nav ul{
-        display:flex;
-        flex-direction:column;
-        align-items:center;
-        justify-content:center;
-        gap:15px;
-        margin:0;
-        padding:0;
-        width:100%;
-        text-align:center;
-    }
+
+.logo{
+
+    font-size:25px;
+    letter-spacing:4px;
+    text-align:center;
+
+    margin-top:10px;
+    margin-bottom:20px;
+
+}
 
 
-    nav a{
-        font-size:16px;
-    }
+
+/* MENU */
+
+nav ul{
+
+    display:flex;
+    flex-direction:column;
+
+    align-items:center;
+    justify-content:center;
+
+    gap:15px;
+
+    width:100%;
+
+    margin-top:70px;
+    padding:0;
+
+}
 
 
-    .languages{
-        top:70px;
-        right:50%;
-        transform:translateX(
-    }
-            
+nav a{
+
+    font-size:16px;
+
+}
+
+
+
+/* DRAPEAUX */
+
+
+.languages{
+
+    position:absolute;
+
+    top:95px;
+    right:50%;
+
+    transform:translateX(50%);
+
+    display:flex;
+
+    gap:8px;
+
+    z-index:20;
+
+}
+
+
+.languages span{
+
+    font-size:25px;
+
+}
+
+
+
+/* ===== HERO ===== */
+
+
+.hero{
+
+    height:auto;
+
+    min-height:100vh;
+
+    padding:20px 20px 60px;
+
+}
+
+
+
+.hero h1{
+
+    font-size:32px;
+
+    letter-spacing:4px;
+
+}
+
+
+
+.signature{
+
+    font-size:12px;
+
+    letter-spacing:2px;
+
+}
+
+
+
+.hero h2{
+
+    font-size:18px;
+
+    margin:15px;
+
+}
+
+
+
+.intro{
+
+    width:100%;
+
+    font-size:15px;
+
+}
+
+
+
+.button{
+
+    padding:12px 25px;
+
+    font-size:13px;
+
+}
+
+
+
+
+
+/* ===== SECTIONS ===== */
+
+
+#portfolio,
+#about,
+#experiences,
+#services,
+#references,
+#contact{
+
+    padding:50px 5%;
+
+}
+
+
+
+section h2{
+
+    font-size:22px;
+
+    letter-spacing:3px;
+
+}
+
+
+
+
+
+/* ===== FILTRES ===== */
+
+
+.filters{
+
+    gap:10px;
+
+}
+
+
+.filters button{
+
+    padding:8px 15px;
+
+    font-size:13px;
+
+}
+
+
+
+
+
+/* ===== PHOTOS ===== */
+
+
+.albums{
+
+    display:flex !important;
+
+    flex-direction:column !important;
+
+    width:100% !important;
+
+    gap:20px;
+
+}
+
+
+
+.album-card{
+
+    width:100% !important;
+
+}
+
+
+
+.album-card img{
+
+    width:100% !important;
+
+    height:300px !important;
+
+    object-fit:cover;
+
+}
+
+
+
+.album-info{
+
+    padding:15px;
+
+    font-size:14px;
+
+}
+
+
+
+
+
+/* ===== CARTES ===== */
+
+
+.card,
+.event{
+
+    width:100%;
+
+    padding:20px;
+
+}
+
+
+
+
+
+/* ===== CONTACT ===== */
+
+
+.contact-form input,
+.contact-form textarea{
+
+    font-size:14px;
+
+}
+
+
+
