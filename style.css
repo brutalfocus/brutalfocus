@@ -807,10 +807,117 @@ ALBUMS PORTFOLIO
 
 @media(max-width:700px){
 
-.albums{
+    nav{
+        padding:15px;
+    }
 
-grid-template-columns:1fr;
+    .logo{
+        font-size:20px;
+        letter-spacing:3px;
+    }
 
-}
+
+    nav ul{
+        gap:10px;
+    }
+
+    nav a{
+        font-size:14px;
+    }
+
+
+    .languages{
+        top:15px;
+        right:10px;
+        gap:5px;
+    }
+
+    .languages span{
+        font-size:22px;
+    }
+
+
+    .hero{
+        height:auto;
+        min-height:100vh;
+        padding:120px 20px 60px;
+    }
+
+
+    .hero h1{
+        font-size:38px;
+        letter-spacing:5px;
+    }
+
+
+    .signature{
+        font-size:12px;
+        letter-spacing:2px;
+    }
+
+
+    .hero h2{
+        font-size:16px;
+        margin:15px;
+    }
+
+
+    .intro{
+        font-size:14px;
+        width:100%;
+    }
+
+
+    .button{
+        padding:12px 25px;
+        font-size:13px;
+    }
+
+
+    section h2{
+        font-size:22px;
+        letter-spacing:3px;
+    }
+
+
+    #portfolio,
+    #about,
+    #experiences,
+    #services,
+    #references,
+    #contact{
+        padding:50px 5%;
+    }
+
+
+    .filters button{
+        padding:8px 15px;
+        font-size:13px;
+    }
+
+
+    .albums{
+        grid-template-columns:1fr;
+        gap:15px;
+    }
+
+
+    .album-card img{
+        height:230px;
+    }
+
+
+    .album-info{
+        padding:15px;
+        font-size:14px;
+    }
+
+
+    .card,
+    .event{
+        width:100%;
+        padding:20px;
+    }
+
 
 }
