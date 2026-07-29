@@ -128,16 +128,12 @@ nav a:hover{
 
 
 .languages{
-
-    position:fixed;
-    top:20px;
+    position:absolute;
+    top:25px;
     right:30px;
-
-    display:flex;
-    gap:20px;
-
     z-index:100;
-
+    display:flex;
+    gap:15px;
 }
 
 
