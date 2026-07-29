@@ -68,18 +68,14 @@ body{
 /* NAVIGATION */
 
 nav{
-
     position:absolute;
     top:0;
-
+    left:0;
     width:100%;
-
     display:flex;
     justify-content:space-between;
     align-items:center;
-
     padding:30px;
-
 }
 
 
@@ -129,14 +125,15 @@ nav a:hover{
 
 .languages{
     position:absolute;
-    top:20px;
-    right:20px;
+    top:30px;
+    right:30px;
     display:flex;
-    gap:15px;
-    z-index:100;
+    gap:10px;
+    z-index:999;
 }
+
 nav ul{
-    margin-right:200px;
+    margin-right:250px;
 }
 
 .languages span{
